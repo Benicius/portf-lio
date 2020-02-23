@@ -177,6 +177,10 @@ main{
     grid-template-rows: 1fr;
     margin-right: 40px;
 }
+.img {
+    display: grid;
+    align-content: center;
+}
 .rightcolumn-sobre
 .img{
     width: 100%;
